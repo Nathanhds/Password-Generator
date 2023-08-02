@@ -1,0 +1,12 @@
+.input {
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #1a1a1a;
+    color: #FFF;
+    border: none;
+    transition: 0.4;
+}
+
+.input:hover {
+    outline: 3px solid #383c78;
+}
